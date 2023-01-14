@@ -240,7 +240,7 @@ section{
 
 .menu{
     background-color: #DBF3FA;
-    /*background: url(image/menu-bg.jpg) no-repeat;*/
+    
     background-position: center;
     background-size: cover;
 }
@@ -377,7 +377,7 @@ section{
 }
 
 .book{
-    background:url(image/book-bg.jpg) no-repeat;
+   background-color: #DBF3FA;
     background-position: center;
     background-size: cover;
 }
