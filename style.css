@@ -239,7 +239,7 @@ section{
 }
 
 .menu{
-    background: url(../image/menu-bg.jpg) no-repeat;
+    background: url(image/menu-bg.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -373,7 +373,7 @@ section{
 }
 
 .book{
-    background:url(../image/book-bg.jpg) no-repeat;
+    background:url(image/book-bg.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
