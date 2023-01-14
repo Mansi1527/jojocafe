@@ -43,7 +43,7 @@ if(mail($toemail, $name,$mailheaders)){
 
 <h1 class="heading"> booking <span>reserve a table</span> </h1>
 
-<form action="contact.php">
+<form action="mansiy1527@icloud.com" method="POST">
     <label for="name"></label>
     <input type="text" placeholder="your name" class="box" name="name">
     <label for="email"></label>
