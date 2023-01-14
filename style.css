@@ -377,7 +377,8 @@ section{
 }
 
 .book{
-   background-color: #DBF3FA;
+    background-color: #DBF3FA;
+   
     background-position: center;
     background-size: cover;
 }
