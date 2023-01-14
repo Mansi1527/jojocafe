@@ -239,7 +239,8 @@ section{
 }
 
 .menu{
-    background: url(image/menu-bg.jpg) no-repeat;
+    background-color: #DBF3FA;
+    /*background: url(image/menu-bg.jpg) no-repeat;*/
     background-position: center;
     background-size: cover;
 }
@@ -289,6 +290,9 @@ section{
     font-size: 2rem;
     color:var(--main-color);
     line-height: 1.8;
+}
+.review{
+    background-color:#F5DADF ;
 }
 
 .review .review-slider{
@@ -406,7 +410,9 @@ section{
     height:15rem;
     resize: none;
 }
-
+.footer{
+    background-color: #F5DADF;
+}
 .footer .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(23rem, 1fr));
