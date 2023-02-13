@@ -667,6 +667,10 @@ font-family: 'Merienda One', cursive;
 .container2{
     padding: 2rem;
 }
+
+.about .row .image2 #img2{
+    display: none;
+}
     section{
         padding:2rem;
     }
