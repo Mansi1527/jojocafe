@@ -213,7 +213,7 @@ font-family: cursive;
     flex:1 1 42rem ;
 }
 .about .row .image2 img{
-    width: 50%;
+    width: 60%;
     
     animation:aboutImage 4s linear infinite;
 }
