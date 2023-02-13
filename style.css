@@ -211,6 +211,11 @@ font-family: cursive;
 }
 
 .about .row .image img{
+    width: 100%;
+    
+    animation:aboutImage 4s linear infinite;
+}
+.about .row .image2 img{
     width: 50%;
     
     animation:aboutImage 4s linear infinite;
