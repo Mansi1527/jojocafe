@@ -12,6 +12,6 @@ $message = "name :" .$name . "\n" . "email :" .$email . "\n" ."number :" .$numbe
  else{
     echo 'unable to send';
  }
-
+ //
 
 ?>
